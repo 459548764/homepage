@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Lwming Pages
+
+陪伴大憨憨小邓菌学习的一天开始了！
+
 
 You can use the [editor on GitHub](https://github.com/459548764/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
